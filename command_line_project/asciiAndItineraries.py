@@ -59,12 +59,12 @@ I would say explore Camden market, famous for its street food markets, clothes a
 """
 
 london_culture = """\n
-I would say start the day in Victoria to see the infamous Buckingham Palace. Then take a 15 minute walk to Westminister to capure the sights of the Houses of Parliament and Big Ben. You can then walk towards Waterloo along the Thames to see the London Eye. After, head over to Trafalgar Square to see Nelson's column, where you can then walk to Picadilly and Leicester Square to get some delicious dim sum in Chinatown. In the evening, you can do some late night shopping at Oxford Street or visit the bars in Soho. My personal favourite is NQ64 arcade bar where you can play arcade games, get game-themed cocktails, listen to great RnB music and enjoy the bright fluorescent interior. 
+I would say start the day in Victoria to see the infamous Buckingham Palace. Then take a 15 minute walk to Westminister to capture the sights of the Houses of Parliament and Big Ben. You can then walk towards Waterloo along the Thames to see the London Eye. After, head over to Trafalgar Square to see Nelson's column, where you can then walk to Picadilly and Leicester Square to get some delicious dim sum in Chinatown. In the evening, you can do some late night shopping at Oxford Street or visit the bars in Soho. My personal favourite is NQ64 arcade bar where you can play arcade games, get game-themed cocktails, listen to great RnB music and enjoy the bright fluorescent interior. 
 
 """
 
 london_relax = """\n
-I would say go to Greenwich park to see the breathtaking views of the London skyline and walk under the pretty cherry blossom trees. You can also see the Royal Observatory and the marker of the Meridian Line which famously splits the Earth into East and West. After, you can also explore Greenwich Market which has a range of stall of craft, food and drink. Nearby, you can also visit the very impressive looking Cutty Sark. 
+I would say go to Greenwich park to see the breathtaking views of the London skyline and walk under the pretty cherry blossom trees. You can also see the Royal Observatory and the marker of the Meridian Line which famously splits the Earth into East and West. After, you can explore Greenwich Market which has a range of craft, food and drink stalls. Nearby, you can also visit the very impressive looking Cutty Sark. 
 
 """
 
@@ -84,7 +84,7 @@ I would say go to Marsaxlokk fishing village for the peaceful walks around the h
 """
 
 menorca_adventure = """\n
-I would say take a hike up to El Toro, known as the tallest hill of the island of Menorca, to see a 360 degree breathtaking view of Menorca. After, you can go glass kayaking in Binibeca and then roam around the famous model fishing village in Binebeca made up of white buildings. In the evening, you can go to a cave bar called Covo d'en Xoroi which is situated on the cliffs to watch the sunset. 
+I would say take a hike up to El Toro, known as the tallest hill of the island of Menorca, to see a 360 degree breathtaking view of Menorca. After, you can go glass kayaking in Binibeca and then roam around the famous model fishing village made up of white buildings. In the evening, you can go to a cave bar called Covo d'en Xoroi which is situated on the cliffs to watch the sunset. 
 
 """
 
