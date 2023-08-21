@@ -4,8 +4,8 @@ A mini command-line project using Python. The purpose of the program is to help 
 
 ### This will come in handy:
 - To save and maximise time on holiday (no need for last minute planning!).
-- Make sure they visit the best places and make the most out of their holiday.
-- Help decide on where to go to suit your holiday needs and prioritisation for easier travel.
+- To visit the best places and make the most out of the holiday.
+- To help decide on where to go to suit your holiday needs and prioritisation for easier travel.
 
 
 ## Requirements
